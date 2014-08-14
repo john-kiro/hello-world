@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <message>
   <text>Hello World!</text>
-  <importance>low</importance>
+  <importance>3</importance>
 </message>
